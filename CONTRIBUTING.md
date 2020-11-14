@@ -2,7 +2,7 @@ Contributing to Neovim
 ======================
 
 Getting started
----------------
+----------------
 
 If you want to help but don't know where to start, here are some
 low-risk/isolated tasks:
